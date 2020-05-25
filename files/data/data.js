@@ -1,4 +1,7 @@
 const data = [{
+        value: "Split (2016)",
+        category: "Movie"
+    }, {
         value: "Mr and Mrs Smith (2005)",
         category: "Movie"
     },
