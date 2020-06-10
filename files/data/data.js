@@ -1325,6 +1325,10 @@ const data = [{
         value: "Upload Season 01",
         category: "Web Series"
     },
+    {
+        value: Asur Season 01 ",
+        category: "Web Series"
+    },
 
 
     // ******************************************************************************************
