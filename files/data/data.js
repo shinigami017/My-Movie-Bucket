@@ -1313,6 +1313,19 @@ const data = [{
         value: "The 100 Season 05",
         category: "Web Series"
     },
+    {
+        value: "Betaal Season 01",
+        category: "Web Series"
+    },
+    {
+        value: "Pataal Lok Season 01",
+        category: "Web Series"
+    },
+    {
+        value: "Upload Season 01",
+        category: "Web Series"
+    },
+
 
     // ******************************************************************************************
     // *********************************  HORROR  ******************************************
