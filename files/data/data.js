@@ -869,7 +869,55 @@ const data = [{
         category: "Movie"
     },
     {
-        value: "xXx - Return of Xander Cage (2017)",
+        value: "Artemis Fowl (2020)",
+        category: "Movie"
+    },
+    {
+        value: "Baby's Day Out (1994)",
+        category: "Movie"
+    },
+    {
+        value: "Bloodshot (2020)",
+        category: "Movie"
+    },
+    {
+        value: "Dr. Dolittle (2020)",
+        category: "Movie"
+    },
+    {
+        value: "Fantasy Island (2020)",
+        category: "Movie"
+    },
+    {
+        value: "Ford vs Ferrari (2019)",
+        category: "Movie"
+    },
+    {
+        value: "Frozen 2 (2019)",
+        category: "Movie"
+    },
+    {
+        value: "Knives Out (2019)",
+        category: "Movie"
+    },
+    {
+        value: "Playing With Fire (2019)",
+        category: "Movie"
+    },
+    {
+        value: "Sonic The Hedgehog (2020)",
+        category: "Movie"
+    },
+    {
+        value: "Spies In Disguise (2019)",
+        category: "Movie"
+    },
+    {
+        value: "Terminator Dark Fate (2019)",
+        category: "Movie"
+    },
+    {
+        value: "The Karate Kid (2010)",
         category: "Movie"
     },
 
@@ -1326,7 +1374,7 @@ const data = [{
         category: "Web Series"
     },
     {
-        value: Asur Season 01 ",
+        value: "Asur Season 01",
         category: "Web Series"
     },
 
@@ -2599,6 +2647,5 @@ const data = [{
     {
         value: "Cars 3 (2017)",
         category: "Movie"
-    },
-
+    }
 ];
